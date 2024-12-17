@@ -16,7 +16,7 @@
 - [自定义粒子动画](https://ichenc.github.io/html/packages/自定义粒子动画/)
 - [粒子效果背景](https://ichenc.github.io/html/packages/粒子效果背景/)                                  
 - [轮播图变大](https://ichenc.github.io/html/packages/轮播图变大/)
-
+- [导航](https://ichenc.github.io/html/packages/导航/)
 ##page
 - [万能评论](https://ichenc.github.io/html/page/Base64.html)
 - [桌面时钟](https://ichenc.github.io/html/page/桌面时钟.html)

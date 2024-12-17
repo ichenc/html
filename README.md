@@ -19,8 +19,7 @@
 - [导航](https://ichenc.github.io/html/packages/导航/)
 ##page
 - [万能评论](https://ichenc.github.io/html/page/Base64.html)
-- [桌面时钟](https://ichenc.github.io/html/page/桌面时钟.html)
-- [fork](https://ichenc.github.io/html/page/fork.html/)
+- [fork](https://ichenc.github.io/html/page/fork.html)
 - [Win10更新](https://ichenc.github.io/html/page/Win10更新.html)
 - [阿里云盘公告页](https://ichenc.github.io/html/page/阿里云盘公告页.html)
 - [抽奖小游戏](https://ichenc.github.io/html/page/抽奖小游戏.html)
@@ -29,6 +28,5 @@
 - [系统维护页面1](https://ichenc.github.io/html/page/系统维护页面1.html)
 - [系统维护页面2](https://ichenc.github.io/html/page/系统维护页面2.html)
 - [照片展示](https://ichenc.github.io/html/page/照片展示.html)
-- [桌面时钟](https://ichenc.github.io/html/page/桌面时钟.html)
 
 
